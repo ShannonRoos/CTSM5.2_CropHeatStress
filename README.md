@@ -7,6 +7,7 @@ ii. New CropheatStress.F90 file with heat stress function
 
 iii. currently still two optional methods (hardcoded) to target crop either by accelerating LAI senescence or affecting allocation of grainC to food.
 
+[![DOI](https://zenodo.org/badge/1312959048.svg)](https://doi.org/10.5281/zenodo.22664311)
 
 # copyright heat stress implementation:
 MIT License
