@@ -33,7 +33,7 @@ SOFTWARE.
 
 
 ------------------------
-
+# To cite CTSM: CTSM Development Team. (YEAR). Community Terrestrial Systems Model (CTSM) (tag ctsm5.2.019) [Computer software]. https://doi.org/10.5281/zenodo.3739617.
 # CTSM
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3739617.svg)](https://doi.org/10.5281/zenodo.3739617)
