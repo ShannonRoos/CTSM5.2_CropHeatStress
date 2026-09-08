@@ -1,5 +1,5 @@
 # Heat stress implementations:
-New crop heat stress module is introduced.
+New crop heat stress module is introduced in a branch of CTSM5.2.019.
 
 i. vegetation temperature is here an optional output variable
 
