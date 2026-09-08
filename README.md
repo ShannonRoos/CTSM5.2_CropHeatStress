@@ -1,7 +1,10 @@
 # Heat stress implementations:
 New crop heat stress module is introduced.
+
 i. vegetation temperature is here an optional output variable
+
 ii. New CropheatStress.F90 file with heat stress function
+
 iii. currently still two optional methods (hardcoded) to target crop either by accelerating LAI senescence or affecting allocation of grainC to food.
 
 
